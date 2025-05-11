@@ -94,6 +94,12 @@ Comparison took 0.000456 seconds
 
 ---
 
+## GUIs
+![image](https://github.com/user-attachments/assets/61c5b5c0-3e4c-4467-afe5-d00919adaca5)
+![image](https://github.com/user-attachments/assets/3f935e5e-1023-4e4d-ad2c-c9bb5978b26d)
+
+
+
 ## 📄 License
 This project is licensed under the **MIT License**.
 
